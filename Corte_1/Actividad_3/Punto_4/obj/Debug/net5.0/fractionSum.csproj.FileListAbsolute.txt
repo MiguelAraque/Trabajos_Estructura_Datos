@@ -1,0 +1,24 @@
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.exe
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.deps.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.runtimeconfig.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.runtimeconfig.dev.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\ref\fractionSum.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\bin\Debug\net5.0\fractionSum.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.csproj.AssemblyReference.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.AssemblyInfoInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.AssemblyInfo.cs
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.csproj.CoreCompileInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\ref\fractionSum.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\fractionSum\obj\Debug\net5.0\fractionSum.genruntimeconfig.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.csproj.AssemblyReference.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.AssemblyInfoInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.AssemblyInfo.cs
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.csproj.CoreCompileInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\ref\fractionSum.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\Punto_4\obj\Debug\net5.0\fractionSum.pdb

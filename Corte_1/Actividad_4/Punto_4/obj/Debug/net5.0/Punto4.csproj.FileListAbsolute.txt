@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\ref\Punto4.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\bin\Debug\net5.0\Punto4.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\ref\Punto4.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto4\obj\Debug\net5.0\Punto4.genruntimeconfig.cache

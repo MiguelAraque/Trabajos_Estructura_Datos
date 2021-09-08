@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\ref\MonthValidator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\bin\Debug\net5.0\MonthValidator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\ref\MonthValidator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\MonthValidator\obj\Debug\net5.0\MonthValidator.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Miheradry\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Miheradry\\.nuget\\packages"
+    ]
+  }
+}

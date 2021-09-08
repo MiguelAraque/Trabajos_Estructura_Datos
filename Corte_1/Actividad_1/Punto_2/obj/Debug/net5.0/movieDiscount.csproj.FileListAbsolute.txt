@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.exe
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.deps.json
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.dll
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\ref\movieDiscount.dll
+C:\Users\Miguel\Desktop\Week1\movieDiscount\bin\Debug\net5.0\movieDiscount.pdb
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.dll
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\ref\movieDiscount.dll
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.pdb
+C:\Users\Miguel\Desktop\Week1\movieDiscount\obj\Debug\net5.0\movieDiscount.genruntimeconfig.cache

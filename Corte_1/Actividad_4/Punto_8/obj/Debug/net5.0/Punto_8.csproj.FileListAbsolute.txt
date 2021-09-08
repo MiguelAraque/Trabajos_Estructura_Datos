@@ -1,0 +1,16 @@
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.exe
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.deps.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.runtimeconfig.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.runtimeconfig.dev.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\ref\Punto_8.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\bin\Debug\net5.0\Punto_8.pdb
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.csproj.AssemblyReference.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.AssemblyInfoInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.AssemblyInfo.cs
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.csproj.CoreCompileInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\ref\Punto_8.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.pdb
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_8\obj\Debug\net5.0\Punto_8.genruntimeconfig.cache

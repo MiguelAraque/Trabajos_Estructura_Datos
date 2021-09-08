@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\ref\scoreAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\bin\Debug\net5.0\scoreAnalyzer.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\ref\scoreAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto7\obj\Debug\net5.0\scoreAnalyzer.genruntimeconfig.cache

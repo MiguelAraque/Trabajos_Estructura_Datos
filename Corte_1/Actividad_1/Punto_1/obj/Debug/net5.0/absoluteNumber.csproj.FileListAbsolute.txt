@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.exe
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.deps.json
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.dll
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\ref\absoluteNumber.dll
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\bin\Debug\net5.0\absoluteNumber.pdb
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.dll
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\ref\absoluteNumber.dll
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.pdb
+C:\Users\Miguel\Desktop\Week1\absoluteNumber\obj\Debug\net5.0\absoluteNumber.genruntimeconfig.cache

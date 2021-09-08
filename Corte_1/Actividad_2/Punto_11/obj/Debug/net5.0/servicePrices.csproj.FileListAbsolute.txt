@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\ref\servicePrices.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\bin\Debug\net5.0\servicePrices.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\ref\servicePrices.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\servicePrices\obj\Debug\net5.0\servicePrices.genruntimeconfig.cache

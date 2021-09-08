@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.exe
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.deps.json
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.dll
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\ref\loginAuth.dll
+C:\Users\Miguel\Desktop\Week1\loginAuth\bin\Debug\net5.0\loginAuth.pdb
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.dll
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\ref\loginAuth.dll
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.pdb
+C:\Users\Miguel\Desktop\Week1\loginAuth\obj\Debug\net5.0\loginAuth.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\ref\numberOrganizer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\bin\Debug\net5.0\numberOrganizer.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\ref\numberOrganizer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberOrganizer\obj\Debug\net5.0\numberOrganizer.genruntimeconfig.cache

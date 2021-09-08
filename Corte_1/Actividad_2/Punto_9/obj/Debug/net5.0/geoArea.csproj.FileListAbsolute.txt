@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\ref\geoArea.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\bin\Debug\net5.0\geoArea.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\ref\geoArea.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\geoArea\obj\Debug\net5.0\geoArea.genruntimeconfig.cache

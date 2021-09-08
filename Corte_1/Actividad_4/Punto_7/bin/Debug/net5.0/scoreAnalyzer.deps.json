@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "scoreAnalyzer/1.0.0": {
+        "runtime": {
+          "scoreAnalyzer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "scoreAnalyzer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

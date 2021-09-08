@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\ref\numberCounter.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\bin\Debug\net5.0\numberCounter.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\ref\numberCounter.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\numberCounter\obj\Debug\net5.0\numberCounter.genruntimeconfig.cache

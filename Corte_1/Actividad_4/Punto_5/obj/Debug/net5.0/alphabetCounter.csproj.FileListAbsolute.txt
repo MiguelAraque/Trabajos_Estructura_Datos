@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\ref\alphabetCounter.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\bin\Debug\net5.0\alphabetCounter.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\ref\alphabetCounter.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 5\obj\Debug\net5.0\alphabetCounter.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.exe
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.deps.json
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.runtimeconfig.json
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.runtimeconfig.dev.json
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.dll
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\ref\Punto10.dll
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\bin\Debug\net5.0\Punto10.pdb
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.csproj.AssemblyReference.cache
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.GeneratedMSBuildEditorConfig.editorconfig
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.AssemblyInfoInputs.cache
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.AssemblyInfo.cs
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.csproj.CoreCompileInputs.cache
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.dll
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\ref\Punto10.dll
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.pdb
+\\MiguelNAS\University\Semestre_2\Estructura_datos\Corte_1\Actividad_4\Punto_10\obj\Debug\net5.0\Punto10.genruntimeconfig.cache

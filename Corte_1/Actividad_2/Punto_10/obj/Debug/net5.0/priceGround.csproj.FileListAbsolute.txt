@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\ref\priceGround.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\bin\Debug\net5.0\priceGround.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\ref\priceGround.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\priceGround\obj\Debug\net5.0\priceGround.genruntimeconfig.cache

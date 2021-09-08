@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.exe
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.deps.json
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.dll
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\ref\schoolNotes.dll
+C:\Users\Miguel\Desktop\Week1\schoolNotes\bin\Debug\net5.0\schoolNotes.pdb
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.dll
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\ref\schoolNotes.dll
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.pdb
+C:\Users\Miguel\Desktop\Week1\schoolNotes\obj\Debug\net5.0\schoolNotes.genruntimeconfig.cache

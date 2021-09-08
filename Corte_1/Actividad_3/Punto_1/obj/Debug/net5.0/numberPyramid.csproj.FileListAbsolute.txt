@@ -1,0 +1,48 @@
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.exe
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.deps.json
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.dll
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\ref\numberPyramid.dll
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.pdb
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.dll
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\ref\numberPyramid.dll
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.pdb
+C:\Users\DarkR\OneDrive\Desktop\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.genruntimeconfig.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.exe
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.deps.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.dev.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\ref\numberPyramid.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\bin\Debug\net5.0\numberPyramid.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.AssemblyReference.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfoInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfo.cs
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.CoreCompileInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\ref\numberPyramid.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\numberPyramid\obj\Debug\net5.0\numberPyramid.genruntimeconfig.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.exe
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.deps.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.runtimeconfig.dev.json
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\ref\numberPyramid.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\bin\Debug\net5.0\numberPyramid.pdb
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.AssemblyReference.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfoInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.AssemblyInfo.cs
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.csproj.CoreCompileInputs.cache
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\ref\numberPyramid.dll
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.pdb
+U:\Semestre_2\Estructura_datos\Corte_1\Actividad_3\numberPyramid\obj\Debug\net5.0\numberPyramid.genruntimeconfig.cache

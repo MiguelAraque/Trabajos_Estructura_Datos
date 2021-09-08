@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\ref\primeNumber.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\bin\Debug\net5.0\primeNumber.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\ref\primeNumber.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto 3\obj\Debug\net5.0\primeNumber.genruntimeconfig.cache

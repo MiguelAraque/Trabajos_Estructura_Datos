@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.exe
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.deps.json
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.dll
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\ref\productPrice.dll
+C:\Users\Miguel\Desktop\Week1\productPrice\bin\Debug\net5.0\productPrice.pdb
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.dll
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\ref\productPrice.dll
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.pdb
+C:\Users\Miguel\Desktop\Week1\productPrice\obj\Debug\net5.0\productPrice.genruntimeconfig.cache

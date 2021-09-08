@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\ref\timeCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\bin\Debug\net5.0\timeCalculator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\ref\timeCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\timeCalculator\obj\Debug\net5.0\timeCalculator.genruntimeconfig.cache

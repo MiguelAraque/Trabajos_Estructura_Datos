@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.exe
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.deps.json
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.dll
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\ref\squareRoot.dll
+C:\Users\Miguel\Desktop\Week1\squareRoot\bin\Debug\net5.0\squareRoot.pdb
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.dll
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\ref\squareRoot.dll
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.pdb
+C:\Users\Miguel\Desktop\Week1\squareRoot\obj\Debug\net5.0\squareRoot.genruntimeconfig.cache

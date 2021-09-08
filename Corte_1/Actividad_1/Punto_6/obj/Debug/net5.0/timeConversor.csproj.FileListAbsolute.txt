@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.exe
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.deps.json
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.dll
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\ref\timeConversor.dll
+C:\Users\Miguel\Desktop\Week1\timeConversor\bin\Debug\net5.0\timeConversor.pdb
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.dll
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\ref\timeConversor.dll
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.pdb
+C:\Users\Miguel\Desktop\Week1\timeConversor\obj\Debug\net5.0\timeConversor.genruntimeconfig.cache

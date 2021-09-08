@@ -1,0 +1,32 @@
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.exe
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.deps.json
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.runtimeconfig.json
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.runtimeconfig.dev.json
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.dll
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/ref/vocalScanner}.dll
+C:/Users/Miguel/Desktop/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.pdb
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.csproj.AssemblyReference.cache
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.AssemblyInfoInputs.cache
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.AssemblyInfo.cs
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.csproj.CoreCompileInputs.cache
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.dll
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/ref/vocalScanner}.dll
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.pdb
+C:/Users/Miguel/Desktop/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.genruntimeconfig.cache
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.csproj.AssemblyReference.cache
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.GeneratedMSBuildEditorConfig.editorconfig
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.AssemblyInfoInputs.cache
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.AssemblyInfo.cs
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.csproj.CoreCompileInputs.cache
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.dll
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/ref/vocalScanner}.dll
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.pdb
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.deps.json
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.runtimeconfig.json
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.runtimeconfig.dev.json
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.dll
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/ref/vocalScanner}.dll
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/bin/Debug/net5.0/vocalScanner}.pdb
+/media/miguel/52A69E97A69E7B65/Users/Miguel/Documents/University/Semestre 2/Estructura de datos/Week1/vocalScanner/obj/Debug/net5.0/vocalScanner}.genruntimeconfig.cache

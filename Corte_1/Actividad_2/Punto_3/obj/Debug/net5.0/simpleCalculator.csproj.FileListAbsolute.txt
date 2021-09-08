@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\ref\simpleCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\bin\Debug\net5.0\simpleCalculator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\ref\simpleCalculator.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\simpleCalculator\obj\Debug\net5.0\simpleCalculator.genruntimeconfig.cache

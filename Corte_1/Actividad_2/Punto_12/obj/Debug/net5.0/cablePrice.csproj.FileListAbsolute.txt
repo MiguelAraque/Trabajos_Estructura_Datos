@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\ref\cablePrice.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\bin\Debug\net5.0\cablePrice.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\ref\cablePrice.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\cablePrice\obj\Debug\net5.0\cablePrice.genruntimeconfig.cache

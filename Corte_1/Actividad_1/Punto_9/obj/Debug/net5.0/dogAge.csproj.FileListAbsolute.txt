@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.exe
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.deps.json
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.dll
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\ref\dogAge.dll
+C:\Users\Miguel\Desktop\Week1\dogAge\bin\Debug\net5.0\dogAge.pdb
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.dll
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\ref\dogAge.dll
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.pdb
+C:\Users\Miguel\Desktop\Week1\dogAge\obj\Debug\net5.0\dogAge.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.exe
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.deps.json
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.runtimeconfig.json
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.dll
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\ref\collatz.dll
+C:\Users\Miguel\Desktop\Week1\collatz\bin\Debug\net5.0\collatz.pdb
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.dll
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\ref\collatz.dll
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.pdb
+C:\Users\Miguel\Desktop\Week1\collatz\obj\Debug\net5.0\collatz.genruntimeconfig.cache

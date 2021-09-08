@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\ref\numberAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\bin\Debug\net5.0\numberAnalyzer.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\ref\numberAnalyzer.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto6\obj\Debug\net5.0\numberAnalyzer.genruntimeconfig.cache

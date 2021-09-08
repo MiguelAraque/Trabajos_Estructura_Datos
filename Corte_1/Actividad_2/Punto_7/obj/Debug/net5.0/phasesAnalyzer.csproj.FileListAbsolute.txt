@@ -1,0 +1,16 @@
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.exe
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.deps.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.runtimeconfig.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.runtimeconfig.dev.json
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\ref\phasesAnalyzer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\bin\Debug\net5.0\phasesAnalyzer.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.csproj.AssemblyReference.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.AssemblyInfoInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.AssemblyInfo.cs
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\ref\phasesAnalyzer.dll
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.pdb
+C:\Users\DarkR\OneDrive\Documents\Actividad2\phasesAnalyzer\obj\Debug\net5.0\phasesAnalyzer.genruntimeconfig.cache

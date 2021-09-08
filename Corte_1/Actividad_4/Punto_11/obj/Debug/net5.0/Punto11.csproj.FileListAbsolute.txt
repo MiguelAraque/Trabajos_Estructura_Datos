@@ -1,0 +1,16 @@
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.exe
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.deps.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.runtimeconfig.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.runtimeconfig.dev.json
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\ref\Punto11.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\bin\Debug\net5.0\Punto11.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.csproj.AssemblyReference.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.AssemblyInfoInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.AssemblyInfo.cs
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.csproj.CoreCompileInputs.cache
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\ref\Punto11.dll
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.pdb
+U:\Semestre 2\Estructura de datos\Corte 1\Week4\Punto11\obj\Debug\net5.0\Punto11.genruntimeconfig.cache

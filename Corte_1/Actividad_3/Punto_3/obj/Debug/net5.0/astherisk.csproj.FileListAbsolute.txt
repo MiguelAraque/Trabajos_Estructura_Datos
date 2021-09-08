@@ -1,0 +1,32 @@
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.exe
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.deps.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.runtimeconfig.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.runtimeconfig.dev.json
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\ref\astherisk.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\bin\Debug\net5.0\astherisk.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.csproj.AssemblyReference.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.AssemblyInfoInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.AssemblyInfo.cs
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.csproj.CoreCompileInputs.cache
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\ref\astherisk.dll
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.pdb
+\\192.168.0.7\University\Estructura de datos\Actividad 3\astherisk\obj\Debug\net5.0\astherisk.genruntimeconfig.cache
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.exe
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.deps.json
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.runtimeconfig.json
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.runtimeconfig.dev.json
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.dll
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\ref\astherisk.dll
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\bin\Debug\net5.0\astherisk.pdb
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.csproj.AssemblyReference.cache
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.GeneratedMSBuildEditorConfig.editorconfig
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.AssemblyInfoInputs.cache
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.AssemblyInfo.cs
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.csproj.CoreCompileInputs.cache
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.dll
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\ref\astherisk.dll
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.pdb
+U:\Semestre_2\Estructura_datos\Corte _1\Actividad_3\astherisk\obj\Debug\net5.0\astherisk.genruntimeconfig.cache
