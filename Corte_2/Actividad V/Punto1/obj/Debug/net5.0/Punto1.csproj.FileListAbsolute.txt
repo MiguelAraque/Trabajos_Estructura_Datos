@@ -1,0 +1,16 @@
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.exe
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.deps.json
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.runtimeconfig.json
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.runtimeconfig.dev.json
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.dll
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\ref\Punto1.dll
+C:\Users\Miguel\Documents\Actividad V\Punto1\bin\Debug\net5.0\Punto1.pdb
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.dll
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\ref\Punto1.dll
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.pdb
+C:\Users\Miguel\Documents\Actividad V\Punto1\obj\Debug\net5.0\Punto1.genruntimeconfig.cache
