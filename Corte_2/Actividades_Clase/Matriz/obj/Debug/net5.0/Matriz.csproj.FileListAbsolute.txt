@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.exe
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.deps.json
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.json
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.dll
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\ref\Matriz.dll
+C:\Users\Miguel\Desktop\Matriz\bin\Debug\net5.0\Matriz.pdb
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.dll
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\ref\Matriz.dll
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.pdb
+C:\Users\Miguel\Desktop\Matriz\obj\Debug\net5.0\Matriz.genruntimeconfig.cache

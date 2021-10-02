@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.exe
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.deps.json
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.runtimeconfig.json
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.dll
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ref\ArrayListdatos.dll
+C:\Users\Miguel\Desktop\ArrayListdatos\bin\Debug\net5.0\ArrayListdatos.pdb
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.dll
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ref\ArrayListdatos.dll
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.pdb
+C:\Users\Miguel\Desktop\ArrayListdatos\obj\Debug\net5.0\ArrayListdatos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.exe
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.deps.json
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.runtimeconfig.json
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.dll
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\ref\Transpuesta.dll
+C:\Users\Miguel\Desktop\Transpuesta\bin\Debug\net5.0\Transpuesta.pdb
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.dll
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\ref\Transpuesta.dll
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.pdb
+C:\Users\Miguel\Desktop\Transpuesta\obj\Debug\net5.0\Transpuesta.genruntimeconfig.cache
