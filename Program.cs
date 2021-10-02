@@ -6,6 +6,7 @@ namespace Punto1
     {
         static void Main(string[] args)
         {
+            string hola;
             Console.WriteLine("Hello World!");
         }
     }
