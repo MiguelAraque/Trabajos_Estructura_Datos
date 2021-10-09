@@ -3,7 +3,7 @@
     *   Grupo: 239-2A
     *   Turno: Diurno
     */
-namespace Punto_12
+namespace cablePrice
 {
     class Program
     {

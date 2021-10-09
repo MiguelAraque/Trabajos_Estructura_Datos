@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miguel\\Desktop\\Matriz\\Matriz.csproj": {}
+    "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Matriz\\Matriz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miguel\\Desktop\\Matriz\\Matriz.csproj": {
+    "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Matriz\\Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Matriz\\Matriz.csproj",
+        "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Matriz\\Matriz.csproj",
         "projectName": "Matriz",
-        "projectPath": "C:\\Users\\Miguel\\Desktop\\Matriz\\Matriz.csproj",
+        "projectPath": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Matriz\\Matriz.csproj",
         "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miguel\\Desktop\\Matriz\\obj\\",
+        "outputPath": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",

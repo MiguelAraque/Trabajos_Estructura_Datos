@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.exe
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.deps.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.runtimeconfig.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\ref\Punto5.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\bin\Debug\net5.0\Punto5.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\ref\Punto5.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividad_VI\Punto5\obj\Debug\net5.0\Punto5.genruntimeconfig.cache

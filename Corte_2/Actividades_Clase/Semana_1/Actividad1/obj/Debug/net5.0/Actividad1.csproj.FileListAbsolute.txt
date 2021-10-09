@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.exe
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.deps.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.runtimeconfig.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\ref\Actividad1.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\bin\Debug\net5.0\Actividad1.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\ref\Actividad1.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_1\Actividad1\obj\Debug\net5.0\Actividad1.genruntimeconfig.cache

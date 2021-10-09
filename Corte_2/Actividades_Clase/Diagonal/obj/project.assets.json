@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\Diagonal\\Diagonal.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Diagonal\\Diagonal.csproj",
       "projectName": "Diagonal",
-      "projectPath": "C:\\Users\\Miguel\\Desktop\\Diagonal\\Diagonal.csproj",
+      "projectPath": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Diagonal\\Diagonal.csproj",
       "packagesPath": "C:\\Users\\Miguel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel\\Desktop\\Diagonal\\obj\\",
+      "outputPath": "C:\\Users\\Miguel\\Desktop\\University\\Semestre_2\\Estructura_datos\\Corte_2\\Actividades_Clase\\Diagonal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",

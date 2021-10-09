@@ -3,7 +3,7 @@
     *   Grupo: 239-2A
     *   Turno: Diurno
     */
-namespace Punto_5
+namespace timeCalculator
 {
     class Program
     {

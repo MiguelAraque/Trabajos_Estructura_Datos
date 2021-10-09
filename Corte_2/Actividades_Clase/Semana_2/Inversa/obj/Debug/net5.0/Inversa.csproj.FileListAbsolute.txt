@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.exe
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.deps.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.runtimeconfig.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\ref\Inversa.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\bin\Debug\net5.0\Inversa.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\ref\Inversa.dll
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.pdb
+C:\Users\Miguel\Desktop\University\Semestre_2\Estructura_datos\Corte_2\Actividades_Clase\Semana_2\Inversa\obj\Debug\net5.0\Inversa.genruntimeconfig.cache

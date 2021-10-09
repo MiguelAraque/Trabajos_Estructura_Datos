@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
     *   Grupo: 239-2A
     *   Turno: Diurno
     */
-namespace Punto_7
+namespace phasesAnalyzer
 {
     class Program
     {

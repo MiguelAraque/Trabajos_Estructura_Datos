@@ -7,8 +7,6 @@ namespace Matriz
         static void Main(string[] args)
         {
             int x = 0, y = 0;
-            
-            
             do
             {
                 try
@@ -22,7 +20,7 @@ namespace Matriz
                         Console.WriteLine("La longitud y altura deben ser iguales");
                     }
                 }
-                catch (System.Exception)
+                catch (System.FormatException)
                 {
                     Console.WriteLine("El dato ingresado debe ser un numero entero");
                     

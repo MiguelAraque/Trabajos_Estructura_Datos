@@ -3,7 +3,7 @@
     *   Grupo: 239-2A
     *   Turno: Diurno
     */
-namespace Punto_10
+namespace priceGround
 {
     class Program
     {

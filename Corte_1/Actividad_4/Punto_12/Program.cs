@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
-/*  Creado por: Miguel Andres Araque Moreno
-    *   Grupo: 239-2A
-    *   Turno: Diurno
-    */
+
 namespace Punto_12
 {
     class Program

@@ -3,7 +3,7 @@
     *   Grupo: 239-2A
     *   Turno: Diurno
     */
-namespace Punto_11
+namespace servicePrices
 {
     class Program
     {

@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.exe
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.deps.json
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.runtimeconfig.json
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.dll
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\ref\pair.dll
+C:\Users\Miguel\Desktop\pair\bin\Debug\net5.0\pair.pdb
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.dll
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\ref\pair.dll
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.pdb
+C:\Users\Miguel\Desktop\pair\obj\Debug\net5.0\pair.genruntimeconfig.cache

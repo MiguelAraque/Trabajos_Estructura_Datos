@@ -1,10 +1,6 @@
 ﻿using System;
-/*  Creado por: Miguel Andres Araque Moreno
-    *   Grupo: 239-2A
-    *   Turno: Diurno
-    */
-namespace Punto_11
 
+namespace electionCounter
 {
     class Program
     {

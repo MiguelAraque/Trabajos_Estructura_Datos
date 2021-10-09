@@ -1,0 +1,16 @@
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.csproj.AssemblyReference.cache
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.exe
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.deps.json
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.runtimeconfig.json
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.dll
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ref\ArrayListEjemplo.dll
+C:\Users\Miguel\Desktop\ArrayListEjemplo\bin\Debug\net5.0\ArrayListEjemplo.pdb
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.dll
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ref\ArrayListEjemplo.dll
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.pdb
+C:\Users\Miguel\Desktop\ArrayListEjemplo\obj\Debug\net5.0\ArrayListEjemplo.genruntimeconfig.cache
