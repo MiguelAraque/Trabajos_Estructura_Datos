@@ -1,0 +1,16 @@
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.exe
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.deps.json
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.json
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.dev.json
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.dll
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\ref\Punto2.dll
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\bin\Debug\net5.0\Punto2.pdb
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.csproj.AssemblyReference.cache
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfoInputs.cache
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfo.cs
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.csproj.CoreCompileInputs.cache
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.dll
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\ref\Punto2.dll
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.pdb
+D:\University\Semestre_2\Estructura_datos\Corte_3\Actividades_Clase\Semana_2\Punto2\obj\Debug\net5.0\Punto2.genruntimeconfig.cache
