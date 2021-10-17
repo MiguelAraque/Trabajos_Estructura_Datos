@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miguel Araque\\Documents\\Estructura_datos\\Corte_3\\ActividadVII\\Punto3\\Punto3.csproj",
+      "projectUniqueName": "C:\\Users\\Miguel Araque\\Documents\\Repositorios\\Trabajos_Estructura_Datos\\Corte_3\\ActividadVII\\Punto3\\Punto3.csproj",
       "projectName": "Punto3",
-      "projectPath": "C:\\Users\\Miguel Araque\\Documents\\Estructura_datos\\Corte_3\\ActividadVII\\Punto3\\Punto3.csproj",
+      "projectPath": "C:\\Users\\Miguel Araque\\Documents\\Repositorios\\Trabajos_Estructura_Datos\\Corte_3\\ActividadVII\\Punto3\\Punto3.csproj",
       "packagesPath": "C:\\Users\\Miguel Araque\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miguel Araque\\Documents\\Estructura_datos\\Corte_3\\ActividadVII\\Punto3\\obj\\",
+      "outputPath": "C:\\Users\\Miguel Araque\\Documents\\Repositorios\\Trabajos_Estructura_Datos\\Corte_3\\ActividadVII\\Punto3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miguel Araque\\AppData\\Roaming\\NuGet\\NuGet.Config"
