@@ -12,11 +12,11 @@ namespace Punto7
             Queue FinalQueue = new Queue();
             floatNumbersToQueue(Queue1, 3);
             floatNumbersToQueue(Queue2, 3);
+            TransferQueueItems(Queue1, Queue2, FinalQueue);
             Console.WriteLine("Cola 1");
             printQueueValues(Queue1);
             Console.WriteLine("Cola 2");
             printQueueValues(Queue2);
-            TransferQueueItems(Queue1, Queue2, FinalQueue);
             Console.WriteLine("Cola final");
             printQueueValues(FinalQueue);
             Console.WriteLine($"Las pilas contienen: ");

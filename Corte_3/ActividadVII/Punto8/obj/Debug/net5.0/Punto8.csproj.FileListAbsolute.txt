@@ -1,0 +1,16 @@
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.exe
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.deps.json
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.runtimeconfig.json
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.runtimeconfig.dev.json
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.dll
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\ref\Punto8.dll
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\bin\Debug\net5.0\Punto8.pdb
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.csproj.AssemblyReference.cache
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.AssemblyInfoInputs.cache
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.AssemblyInfo.cs
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.dll
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\ref\Punto8.dll
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.pdb
+C:\Users\Miguel Araque\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVII\Punto8\obj\Debug\net5.0\Punto8.genruntimeconfig.cache
