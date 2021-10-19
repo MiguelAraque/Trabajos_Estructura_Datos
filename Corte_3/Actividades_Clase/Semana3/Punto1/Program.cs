@@ -12,6 +12,8 @@ namespace Punto1
         {
             try
             {
+                Console.Write("Escribe la palabra: ");
+                String Word = Console.ReadLine();
                 Console.WriteLine("¿Que quieres hacer?");
                 Console.WriteLine("1. Saber la posición de una letra en una palabra");
                 Console.WriteLine("2. Pasar las palabras a mayusculas");
@@ -20,13 +22,13 @@ namespace Punto1
                 switch(option)
                 {
                     case 1:
-                        findLetterPosition();
+                        findLetterPosition(Word);
                     break;
                     case 2:
-                        ConvertToUpperWord();
+                        ConvertToUpperWord(Word);
                     break;
                     case 3:
-                        ReplaceLetters();
+                        ReplaceLetters(Word);
                     break;
                     default:
                         Console.WriteLine("Elige una opción valida, ¡vuelve a intentarlo!");
@@ -42,12 +44,10 @@ namespace Punto1
                 Menu();                
             }
         }
-        static void findLetterPosition()
+        static void findLetterPosition(String Word)
         {
             try
             {
-                Console.Write("Escribe la palabra: ");
-                String Word = Console.ReadLine();
                 Console.Write("Escribe la letra a buscar: ");
                 Char letter = Convert.ToChar(Console.ReadLine());
                 int Counter = Word.IndexOf(letter);
@@ -72,14 +72,15 @@ namespace Punto1
                 Menu();
             }
         }
-        static void ConvertToUpperWord()
+        static void ConvertToUpperWord(String Word)
         {
             try
             {
-                Console.Write("Escribe la palabra: ");
-                String Word = Console.ReadLine();
                 String Converted = Word.ToUpper();
-                Console.WriteLine($"la palabra {Word} queda como {Converted}");     
+                Console.WriteLine($"la palabra {Word} queda como {Converted}");
+                Console.WriteLine("Presiona una tecla para continuar:");
+                Console.ReadKey();
+                Menu();     
             }
             catch (System.Exception)
             {
@@ -88,12 +89,10 @@ namespace Punto1
                 throw;
             }            
         }
-        static void ReplaceLetters()
+        static void ReplaceLetters(String Word)
         {
             try
             {
-                Console.Write("Escribe la palabra: ");
-                String Word = Console.ReadLine();
                 Console.Write("¿Que caracter desea reemplazar?: ");
                 Char oldLetter = Convert.ToChar(Console.ReadLine());
                 Console.Write("¿Que caracter desea intercambiar?: ");
