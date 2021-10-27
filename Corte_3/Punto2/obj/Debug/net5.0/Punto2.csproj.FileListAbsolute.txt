@@ -1,0 +1,16 @@
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.csproj.AssemblyReference.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfoInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.AssemblyInfo.cs
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.exe
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.deps.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.runtimeconfig.dev.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\ref\Punto2.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\bin\Debug\net5.0\Punto2.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\ref\Punto2.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\Punto2\obj\Debug\net5.0\Punto2.genruntimeconfig.cache

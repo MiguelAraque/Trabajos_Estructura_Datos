@@ -1,0 +1,16 @@
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.csproj.AssemblyReference.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.AssemblyInfoInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.AssemblyInfo.cs
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.exe
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.deps.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.runtimeconfig.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.runtimeconfig.dev.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ref\ActividadVIII.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\bin\Debug\net5.0\ActividadVIII.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ref\ActividadVIII.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadVIII\obj\Debug\net5.0\ActividadVIII.genruntimeconfig.cache
