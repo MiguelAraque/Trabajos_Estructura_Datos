@@ -1,0 +1,16 @@
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.exe
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.deps.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.runtimeconfig.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.runtimeconfig.dev.json
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ref\ActividadIX.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\bin\Debug\net5.0\ActividadIX.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.csproj.AssemblyReference.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.AssemblyInfoInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.AssemblyInfo.cs
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.csproj.CoreCompileInputs.cache
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ref\ActividadIX.dll
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.pdb
+C:\Users\DarkR\Documents\Repositorios\Trabajos_Estructura_Datos\Corte_3\ActividadIX\obj\Debug\net5.0\ActividadIX.genruntimeconfig.cache
